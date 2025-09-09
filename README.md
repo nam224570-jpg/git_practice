@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là Trần Hoài Nam, MSSV 224570.
+Đây là README từ nhánh conflict-demo.
